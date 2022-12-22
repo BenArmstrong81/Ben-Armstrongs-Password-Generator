@@ -112,7 +112,7 @@ else if (confirmLowerCase) {
   console.log(userChoices);
 }
 else if (confirmUpperCase) {
-  userChoices = blankUpper.concat(upperCase);
+  userChoices = upperCase;
   console.log(userChoices);
 }
 else if (confirmNumbers) {
