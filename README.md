@@ -47,7 +47,7 @@ To complete this challenge the following are the KPI's and acceptance criteria t
   This week was a little overwhelming for me however I learnt that practice was key this week. And to use resources such as Google, YouTube and MDN Docs etc. to research and close any knowledge gaps.
 
   ## What Problems Did we Solve?
-  Using JavaScript "............."
+  Using JavaScript we came up with a functioning website that generates a random password upon user input. 
 
   Created a clear and concise Readme file.
 
@@ -56,11 +56,11 @@ To complete this challenge the following are the KPI's and acceptance criteria t
 N/A
 
 # Usage
-To use and view this challenge please use this the following link to access the deployed website: "https://benarmstrong81.github.io/Horiseon-Refactor-Project/" 
+To use and view this challenge please use this the following link to access the deployed website: "https://benarmstrong81.github.io/Ben-Armstrongs-Password-Generator/" 
 
-The following image shows the web application's appearance:
+The following image shows the web application's appearance with a generated password that included; 101 characters in length, upper & lower case characters, numbers and special characters:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/Armstrong%2C%20Ben%20-%20Horiseon-Refactor-Project.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/Ben-Armstrongs-Password-Generator.png)
 
 # Credits
 With special thanks to the UniSA Full Stack Web Development Class
